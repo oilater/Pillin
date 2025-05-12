@@ -1,8 +1,7 @@
 # 💊Pillin💊
 
 "건강하게 오래 살자!"<br>
-영양제 복용 시간을 알려주고 <br>
-재구매 시기를 놓치지 않게 도와주는 앱 서비스 필린입니다. <br>
+영양제 복용 시간을 알려주고, 재구매 시기를 놓치지 않게 도와주는 앱 서비스 필린입니다. <br>
 <br>
 <br>
 
@@ -15,19 +14,19 @@
 # 💊서비스 화면💊
 
 - 메인 화면
-<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
+<img width="250" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
 
 - 검색 화면
-<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/search.gif"> 
+<img width="250" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/search.gif"> 
 
 - 영양제 등록 화면
-<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/regist.gif"> 
+<img width="250" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/regist.gif"> 
 
 - 복용 이력 화면
-<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/calendar.gif"> 
+<img width="250" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/calendar.gif"> 
 
-- 분석 리포트 페이지
-<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/report_rank.gif"> 
+- 영앙제 추천 화면
+<img width="250" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/report_rank.gif"> 
 
 <br>
 
@@ -88,19 +87,9 @@
 
 # 💊설계 문서💊
 
-### 기획서
-
-[https://bonkri.notion.site/e8be82238cd24274bd5aecdc23b75efd?pvs=4](https://www.notion.so/e8be82238cd24274bd5aecdc23b75efd?pvs=21)
-
-### 기능 명세서
-
-[https://bonkri.notion.site/fc19297e4dc44ad584ce8067969edea1?pvs=4](https://www.notion.so/fc19297e4dc44ad584ce8067969edea1?pvs=21)
-
 ### 아키텍처
 
 <img width="700" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/architecture.png "> 
-
-
 
 ### UCC
 
