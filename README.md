@@ -14,19 +14,17 @@
 
 # 💊서비스 화면💊
 
-- 메인 페이지
-<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
+- 메인 화면
+<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
 
-- 검색 페이지
-<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/search.gif"> 
+- 검색 화면
+<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/search.gif"> 
 
-- 영양제 등록 페이지
-<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/regist.gif"> 
+- 영양제 등록 화면
+<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/regist.gif"> 
 
-- 복용 이력 페이지
-<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/calendar.gif"> 
-
-- 영양제 알람 등록 페이지
+- 복용 이력 화면
+<img width="300" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/calendar.gif"> 
 
 - 분석 리포트 페이지
 <img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/report_rank.gif"> 
@@ -100,7 +98,7 @@
 
 ### 아키텍처
 
-<img width="709" alt="스크린샷 2024-03-23 오후 2 01 51" src="https://github.com/oilater/Pillin/tree/master/yourpilling_pjt/yourpilling/assets/115062965/9c2cd46d-52d9-4983-b721-c0c1515bccd7">
+<img width="700" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/architecture.png "> 
 
 
 
@@ -109,10 +107,6 @@
 [https://bonkri.notion.site/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=4](https://www.notion.so/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=21)
 
 <br>
-
-# 💊팀원 소개💊
-
-<img width="900" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/team.png"> 
 
 
 
