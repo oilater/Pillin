@@ -3,7 +3,6 @@
 "건강하게 오래 살자!"<br>
 영양제 복용 시간을 알려주고, 재구매 시기를 놓치지 않게 도와주는 앱 서비스 필린입니다. <br>
 <br>
-SSAFY 2학기 공통 프로젝트 총 10팀 중 2등으로 우수상을 수상했습니다 🎉
 <br>
 
 # 💊개발 환경💊
@@ -91,12 +90,4 @@ SSAFY 2학기 공통 프로젝트 총 10팀 중 2등으로 우수상을 수상�
 ### 아키텍처
 
 <img width="700" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/architecture.png "> 
-
-### UCC
-
-[https://bonkri.notion.site/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=4](https://www.notion.so/Pillin-e594f1a0efff47e6ad42acfcb31e98ec?pvs=21)
-
-<br>
-
-
 
