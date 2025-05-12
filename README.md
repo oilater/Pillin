@@ -15,24 +15,25 @@
 # 💊서비스 화면💊
 
 - 메인 페이지
-<img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
+<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/main.gif">
 
+- 검색 페이지
+<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/search.gif"> 
 
 - 영양제 등록 페이지
+<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/regist.gif"> 
 
 - 복용 이력 페이지
+<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/calendar.gif"> 
 
 - 영양제 알람 등록 페이지
 
 - 분석 리포트 페이지
-
-- 검색 페이지
+<img width="100" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/report_rank.gif"> 
 
 <br>
 
 # 💊주요 기능💊
-
----
 
 ### 로그인
 
@@ -73,8 +74,6 @@
 
 # 💊기술 소개💊
 
----
-
 - Android/iOS 에서 동작 가능한 하이브리드 어플리케이션
     - Flutter를 활용하여 하이브리드 어플리케이션 제작
     - 
@@ -90,8 +89,6 @@
 <br>
 
 # 💊설계 문서💊
-
----
 
 ### 기획서
 
@@ -115,9 +112,7 @@
 
 # 💊팀원 소개💊
 
----
-
-<img width="901" alt="스크린샷 2024-03-23 오후 2 00 31" src="https://github.com/oilater/Pillin/tree/master/yourpilling_pjt/yourpilling/assets/115062965/55c9e869-c541-4197-8ea8-95d8bd0b939a">
+<img width="900" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/blob/master/ImageFile/team.png"> 
 
 
 
