@@ -1,14 +1,12 @@
-# 💊프로젝트 이름💊
+# 💊Pillin💊
 
 ---
-
-## Pillin(필린)
 
 "건강하게 오래 살자!"<br>
 영양제 복용 시간을 알려주고 <br>
 재구매 시기를 놓치지 않게 도와주는 앱 서비스 필린입니다. <br>
 <br>
-<img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/assets/115062965/b5d689d8-ca59-4fdf-86fd-9a2f57c3fb75">
+<img width="703" alt="스크린샷 2024-03-23 오후 1 54 58" src="https://github.com/oilater/Pillin/tree/master/yourpilling_pjt/yourpilling/assets/115062965/b5d689d8-ca59-4fdf-86fd-9a2f57c3fb75">
 
 <br>
 
@@ -111,7 +109,7 @@
 
 ### 아키텍처
 
-<img width="709" alt="스크린샷 2024-03-23 오후 2 01 51" src="https://github.com/oilater/Pillin/assets/115062965/9c2cd46d-52d9-4983-b721-c0c1515bccd7">
+<img width="709" alt="스크린샷 2024-03-23 오후 2 01 51" src="https://github.com/oilater/Pillin/tree/master/yourpilling_pjt/yourpilling/assets/115062965/9c2cd46d-52d9-4983-b721-c0c1515bccd7">
 
 
 
@@ -125,7 +123,7 @@
 
 ---
 
-<img width="901" alt="스크린샷 2024-03-23 오후 2 00 31" src="https://github.com/oilater/Pillin/assets/115062965/55c9e869-c541-4197-8ea8-95d8bd0b939a">
+<img width="901" alt="스크린샷 2024-03-23 오후 2 00 31" src="https://github.com/oilater/Pillin/tree/master/yourpilling_pjt/yourpilling/assets/115062965/55c9e869-c541-4197-8ea8-95d8bd0b939a">
 
 
 
